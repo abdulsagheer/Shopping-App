@@ -1,2 +1,0 @@
-DB_PROD=mongodb+srv://Abdulsagheer:Sagheer29@cluster0.thgmf.mongodb.net/Ecommerce-App?retryWrites=true&w=majority
-JWT_SECRET=ecommerceSecret
